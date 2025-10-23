@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ---
 
-## Project Output
+## Project Output -
 
 Below is an example of the **Hand Digit Calculation** mini-project output:
 
@@ -51,7 +51,7 @@ Below is an example of the **Hand Digit Calculation** mini-project output:
 
 ---
 
-## Author
+## Author -
 
 **Meeraj Krishna**  
 GitHub: [meerajkrishna](https://github.com/meerajkrishna)
