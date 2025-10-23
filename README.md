@@ -6,7 +6,7 @@ A calculator that uses handwritten digits and operators to calculate the result,
 - OpenCV and Pillow (PIL) are used to read input from the GUI canvas and to obtain contours for individual digits/operators.
 - The individual digits/operators are detected and predicted. The predictions are combined into a string and evaluated to get the result.
 
-![demo0](https://github.com/Meeraj Krishna/Handwriting-Calculator/assets/132273464/c8643ca4-2bad-46f7-ba14-13b01e7a9d2b)
+![demo0](https://github.com/MeerajKrishna/Handwriting-Calculator/assets/132273464/c8643ca4-2bad-46f7-ba14-13b01e7a9d2b)
 
 #### Contour boxes (green), predicted values (blue) and accuracies (red)
 
