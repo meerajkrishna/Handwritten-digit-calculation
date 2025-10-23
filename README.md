@@ -6,11 +6,11 @@ A calculator that uses handwritten digits and operators to calculate the result,
 - OpenCV and Pillow (PIL) are used to read input from the GUI canvas and to obtain contours for individual digits/operators.
 - The individual digits/operators are detected and predicted. The predictions are combined into a string and evaluated to get the result.
 
-![demo0](https://github.com/ShettySach/Handwriting-Calculator/assets/132273464/c8643ca4-2bad-46f7-ba14-13b01e7a9d2b)
+![demo0](https://github.com/Meeraj Krishna/Handwriting-Calculator/assets/132273464/c8643ca4-2bad-46f7-ba14-13b01e7a9d2b)
 
 #### Contour boxes (green), predicted values (blue) and accuracies (red)
 
-![Contours](https://github.com/ShettySach/Handwriting-Calculator/assets/132273464/5e3e7121-21ca-4337-a86c-c5656c305bb2)
+![Contours](https://github.com/MeerajKrishna/Handwriting-Calculator/assets/132273464/5e3e7121-21ca-4337-a86c-c5656c305bb2)
 
 ## Requirements -
 ```bash
@@ -30,4 +30,4 @@ pip install -r requirements.txt
   
 ### Data
 * [MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
-* [Symbol dateset by Irfan Chahyadi ](https://github.com/irfanchahyadi/Handwriting-Calculator/blob/master/src/dataset/data.pickle)
+* [Symbol dateset by Meeraj Krishna ](https://github.com/meerajkrishna/Handwriting-Calculator/blob/master/src/dataset/data.pickle)
