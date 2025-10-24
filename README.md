@@ -55,3 +55,5 @@ Below is an example of the **Hand Digit Calculation** mini-project output:
 
 **Meeraj Krishna**  
 GitHub: [meerajkrishna](https://github.com/meerajkrishna)
+**Srushti Bankar**
+GitHub: [srush17](https://github.com/srush17)
